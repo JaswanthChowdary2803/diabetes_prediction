@@ -1,0 +1,9 @@
+﻿Age,Pregnancies,Glucose,BloodPressure,SkinThickness,Insulin,BMI,DiabetesPedigreeFunction,Outcome,Medication,Precautions,Food Intake
+50,6,148,72,35,0,33.6,0.627,1,Metformin,"Regularly monitor blood sugar levels, maintain healthy diet and exercise routine",Balanced diet with regular mealtimes
+31,1,85,66,29,0,26.6,0.351,0,None,Maintain healthy diet and exercise routine,Limit intake of sugary and processed foods
+32,8,183,64,0,0,23.3,0.672,1,Insulin,"Regularly monitor blood sugar levels, maintain healthy diet and exercise routine",Low-carb diet with plenty of leafy greens and protein
+21,1,89,66,23,94,28.1,0.167,0,None,Maintain healthy diet and exercise routine,Balanced diet with moderate carbohydrate intake
+33,0,137,40,35,168,43.1,2.288,1,"Metformin,Insulin","Regularly monitor blood sugar levels, maintain healthy diet and exercise routine",Low-glycemic index foods and portion control
+30,5,116,74,0,0,25.6,0.201,0,None,Maintain healthy diet and exercise routine,Balanced diet with plenty of fiber and water
+26,3,78,50,32,88,31,0.248,1,Metformin,"Regularly monitor blood sugar levels, maintain healthy diet and exercise routine","Balanced diet with small, frequent meals"
+29,10,115,0,0,0,35.3,0.134,0,None,Maintain healthy diet and exercise routine,Balanced diet with portion control
